@@ -228,8 +228,8 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-/*   color: #0085A1; */
-  color: orange;
+  color: #0085A1;
+/*   color: orange; */
   
 }
 .post-preview > a > .post-title {
